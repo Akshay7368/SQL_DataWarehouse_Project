@@ -7,6 +7,9 @@ It follows the **ETL (Extract → Transform → Load)** methodology and organize
 The project simulates integration of **CRM** and **ERP** datasets, applies cleaning and transformation logic, and builds a **Star Schema** for business analytics.
 
 ---
+## Data Flow Diagram
+
+![Data Flow Diagram](docs/Diagram/Dataflow.png)
 
 ## 🛠 Tech Stack
 - **Database**: Microsoft SQL Server  
